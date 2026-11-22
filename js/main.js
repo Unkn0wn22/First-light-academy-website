@@ -14,7 +14,7 @@ const I18N = {
   /* hero */
   hero_badge:['Akademi ya Soka kwa Vijana','Youth Football Academy'],
   hero_tag:['Kukuza Kipaji, Kuunda Maadili','Nurturing Talent, Building Values'],
-  hero_sub:['Mafunzo ya soka kwa watoto wa miaka 3-14. Jumamosi & Jumapili, Saa 4:00 - 5:30 jioni. Yemen, kinyume na Chuo cha Duce.',
+  hero_sub:['Mafunzo ya soka kwa watoto wa miaka 3-14. Jumamosi & Jumapili, Saa 4:00 - 5:30 jioni. Yemen, Nyuma na Chuo cha Duce.',
             'Football training for kids aged 3-14. Saturdays & Sundays, 4:00 - 5:30 PM. Yemen, opposite Duce College.'],
   hero_c1:['Jiunge Sasa','Join Now'], hero_c2:['Tazama Programu','View Programs'],
   scroll:['Sogeza Chini','Scroll Down'],
